@@ -1,0 +1,5 @@
+other way to connect
+
+cd xampp/mysql/bin >mysql -u root -p -h localhost
+
+showdatabases>
